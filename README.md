@@ -270,13 +270,6 @@ These examples illustrate the practical application of enshrined functionality, 
 
 ---
 
-#### **7. Next Steps**
 
-1. Design the **data availability module** based on Danksharding principles.
-2. Develop the **proof verification system** for zk-SNARKs, zk-STARKs, and fraud proofs.
-3. Build and test the **shared sequencer pool** prototype.
-4. Create comprehensive **developer tooling and SDKs** for rollup integration.
-
----
 
 This custom enshrined functionality framework establishes a robust foundation for scaling Layer 1 protocols while supporting a diverse and innovative Layer 2 ecosystem.
