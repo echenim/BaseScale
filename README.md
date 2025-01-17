@@ -1,5 +1,5 @@
 
-### System Design and Architecture Document: Enshrined Functionality Framework for a Custom Layer 1 Protocol
+### Enshrined Functionality Framework for a Custom Layer 1 Protocol
 
 #### **1. Vision and Goals**
 
